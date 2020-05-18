@@ -1,0 +1,1451 @@
+﻿Log file open, 05/16/20 17:16:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CardGameDemoWithInterfaces
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.157837
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:939][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.16-15.16.35:939][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.16-15.16.35:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:940][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:943][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-15.16.35:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-15.16.35:944][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.16-15.16.35:945][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.16-15.16.35:946][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.16-15.16.35:946][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-15.16.35:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.16-15.16.35:952][  0]LogHAL: Display: Platform has ~ 8 GB [8502808576 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.16-15.16.35:952][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.16-15.16.35:952][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.16-15.16.35:952][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:952][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.16-15.16.35:953][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Scalability.ini]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.16-15.16.35:954][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.16-15.16.35:955][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.16-15.16.35:955][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.16-15.16.35:955][  0]LogConfig: Setting CVar [[r.GraphicsAdapter:-2]]
+[2020.05.16-15.16.35:955][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Config/Windows/Engine.ini]
+[2020.05.16-15.16.35:955][  0]LogInit: Computer: DESKTOP-HV3TSTM
+[2020.05.16-15.16.35:955][  0]LogInit: User: sshth
+[2020.05.16-15.16.35:955][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.05.16-15.16.35:955][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.16-15.16.35:955][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.16-15.16.35:955][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.16-15.16.35:955][  0]LogMemory: Process Physical Memory: 104.29 MB used, 104.30 MB peak
+[2020.05.16-15.16.35:955][  0]LogMemory: Process Virtual Memory: 99.69 MB used, 99.69 MB peak
+[2020.05.16-15.16.35:955][  0]LogMemory: Physical Memory: 5852.47 MB used,  2256.44 MB free, 8108.91 MB total
+[2020.05.16-15.16.35:955][  0]LogMemory: Virtual Memory: 5131.96 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.05.16-15.16.35:959][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.16-15.16.35:982][  0]LogInit: Using OS detected language (en-US).
+[2020.05.16-15.16.35:982][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.16-15.16.35:984][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.16-15.16.36:273][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.16-15.16.36:309][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.16-15.16.36:309][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.16-15.16.36:571][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-15.16.36:571][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.16-15.16.36:571][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.16-15.16.36:571][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.16-15.16.37:606][  0]LogD3D11RHI:    0. 'Radeon(TM) 520' (Feature Level 11_0)
+[2020.05.16-15.16.37:606][  0]LogD3D11RHI:       2039/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.05.16-15.16.37:641][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.05.16-15.16.37:641][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.16-15.16.37:644][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.16-15.16.37:644][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.16-15.16.37:644][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.16-15.16.37:655][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.16-15.16.37:655][  0]LogD3D11RHI:     GPU DeviceId: 0x6660 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.16-15.16.37:655][  0]LogWindows: EnumDisplayDevices:
+[2020.05.16-15.16.37:656][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.05.16-15.16.37:656][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.16-15.16.37:656][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.16-15.16.37:656][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.16-15.16.37:656][  0]LogD3D11RHI:     Adapter Name: Radeon(TM) 520
+[2020.05.16-15.16.37:656][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.05.16-15.16.37:656][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.05.16-15.16.37:656][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2020.05.16-15.16.37:688][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.05.16-15.16.37:688][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.16-15.16.37:700][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.05.16-15.16.38:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.16-15.16.38:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.16-15.16.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.16-15.16.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.16-15.16.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.16-15.16.38:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.16-15.16.38:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.16-15.16.38:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.16-15.16.38:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.16-15.16.38:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.16-15.16.38:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.16-15.16.38:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.16-15.16.38:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.16-15.16.38:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.16-15.16.38:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.16-15.16.38:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.16-15.16.38:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.16-15.16.38:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.16-15.16.38:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.16-15.16.38:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.16-15.16.38:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.16-15.16.38:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.16-15.16.38:679][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.16-15.16.38:686][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.16-15.16.38:723][  0]LogShaderCompilers: Guid format shader working directory is -68 characters bigger than the processId version (../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Intermediate/Shaders/WorkingDirectory/12276/).
+[2020.05.16-15.16.38:723][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sshth/AppData/Local/Temp/UnrealShaderWorkingDir/8CB36A8346D33BDD2EFFDB800A0BF4D5/'.
+[2020.05.16-15.16.38:724][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.16-15.16.38:724][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.16-15.16.38:724][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.16-15.16.40:119][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.16-15.16.40:199][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/sshth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.16-15.16.40:199][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sshth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.16-15.16.40:199][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.16-15.16.40:199][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.16-15.16.40:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-15.16.40:200][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.16-15.16.40:215][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.16-15.16.40:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.16-15.16.40:216][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.16-15.16.40:217][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sshth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.16-15.16.40:217][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.16-15.16.40:217][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.16-15.16.40:256][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.16-15.16.40:259][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.16-15.16.40:259][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.16-15.16.40:334][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.05.16-15.16.40:743][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.16-15.16.40:978][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.16-15.16.40:978][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.16-15.16.40:978][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.16-15.16.40:978][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.16-15.16.40:978][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.16-15.16.40:996][  0]LogNetVersion: CardGameDemoWithInterfaces 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3192131523)
+[2020.05.16-15.16.41:058][  0]LogInput: Warning: Action TriggerClick uses deprecated key MotionController_Right_Trigger.
+[2020.05.16-15.16.41:058][  0]LogInput: Warning: Action ResetVR uses deprecated key MotionController_Left_Grip1.
+[2020.05.16-15.16.42:358][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.064673 seconds
+[2020.05.16-15.16.42:366][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.16-15.16.42:366][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.16-15.16.42:366][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.16-15.16.43:026][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.16-15.16.43:030][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.16-15.16.43:112][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.43:112][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.43:115][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.43:116][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.43:117][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.43:127][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.16-15.16.43:128][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.16-15.16.43:234][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.16-15.16.43:250][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.16-15.16.43:250][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.16-15.16.43:374][  0]LogOcInput: OculusInput pre-init called
+[2020.05.16-15.16.43:385][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.16-15.16.43:385][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.16-15.16.43:489][  0]LogEngine: Initializing Engine...
+[2020.05.16-15.16.43:491][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.16-15.16.43:493][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.16-15.16.44:167][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.16-15.16.44:175][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.16.44:222][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.16.44:222][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.16.44:223][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.16.44:223][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.16.44:238][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.16.44:270][  0]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.16.44:284][  0]LogInit: FAudioDevice initialized.
+[2020.05.16-15.16.44:285][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.16-15.16.44:525][  0]LogDerivedDataCache: Saved boot cache 0.24s 78MB C:/Users/sshth/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.16-15.16.44:535][  0]LogInit: Texture streaming: Enabled
+[2020.05.16-15.16.44:552][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.16-15.16.44:552][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.16-15.16.44:554][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.16-15.16.44:642][  0]LogInit: Transaction tracking system initialized
+[2020.05.16-15.16.44:659][  0]BlueprintLog: New page: Editor Load
+[2020.05.16-15.16.44:706][  0]LocalizationService: Localization service is disabled
+[2020.05.16-15.16.44:767][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.16-15.16.44:768][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.16-15.16.45:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/' took 0.00s
+[2020.05.16-15.16.45:218][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.16-15.16.45:218][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.16-15.16.46:205][  0]SourceControl: Source control is disabled
+[2020.05.16-15.16.46:206][  0]LightingResults: New page: Lighting Build
+[2020.05.16-15.16.46:206][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.16.46:207][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.16.46:207][  0]MapCheck: New page: Map Check
+[2020.05.16-15.16.46:207][  0]LightingResults: New page: Lighting Build
+[2020.05.16-15.16.46:241][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.05.16-15.16.47:139][  0]LogLinker: While loading '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/InputUI.uasset' failed to load '/Game/CardGameTemplate/Blueprints/Card': Can't find file.
+[2020.05.16-15.16.47:140][  0]LogLinker: While loading '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/InputUI.uasset' failed to load '/Game/CardGameTemplate/Blueprints/Card': Can't find file.
+[2020.05.16-15.16.51:656][  0]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.16.51:859][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.16-15.16.51:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.16-15.16.51:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.16-15.16.51:915][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.05.16-15.16.51:915][  0]LogFileHelpers: Loading map 'ExampleMap' took 5.710
+[2020.05.16-15.16.52:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.16.52:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.16.52:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.16.52:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.16.52:360][  0]LogCollectionManager: Loaded 0 collections in 0.004471 seconds
+[2020.05.16-15.16.52:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Collections/' took 0.00s
+[2020.05.16-15.16.52:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/Developers/sshth/Collections/' took 0.00s
+[2020.05.16-15.16.52:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/Collections/' took 0.00s
+[2020.05.16-15.16.52:389][  0]LogContentBrowser: Native class hierarchy populated in 0.0161 seconds. Added 3015 classes and 717 folders.
+[2020.05.16-15.16.52:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.16-15.16.54:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.16-15.16.55:006][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 2 classes and 3 folders.
+[2020.05.16-15.16.55:312][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.16-15.16.55:317][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.16-15.16.55:402][  0]LogSlate: Took 0.078772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.16-15.16.55:670][  0]LogRenderer: Reallocating scene render targets to support 856x348 Format 10 NumSamples 1 (Frame:1).
+[2020.05.16-15.16.55:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.16-15.16.55:842][  0]LogLoad: (Engine Initialization) Total time: 22.39 seconds
+[2020.05.16-15.16.55:842][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.16-15.16.55:905][  0]LogAssetRegistry: Asset discovery search completed in 15.5724 seconds
+[2020.05.16-15.16.55:909][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.05.16-15.16.55:909][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.16-15.16.55:953][  0]LogSlate: Took 0.030574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-15.16.56:054][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.16-15.21.39:078][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/Hand.Hand
+[2020.05.16-15.21.39:461][103]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.16-15.21.40:907][103]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.16-15.21.41:090][104]LogSlate: Took 0.056380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.16-15.22.09:418][886]BlueprintLog: New page: Compile Hand
+[2020.05.16-15.22.09:792][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.16-15.22.13:226][ 59]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.22.13:248][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.22.13:249][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.22.13:249][ 59]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:22:13 PM)
+[2020.05.16-15.22.13:250][ 59]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.16-15.22.13:251][ 59]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.16-15.22.13:251][ 59]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.22.13:270][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018440s)
+[2020.05.16-15.22.13:272][ 59]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.22.13:272][ 59]LogPlayLevel: PIE: World Init took: (0.002342s)
+[2020.05.16-15.22.13:272][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.021153s)
+[2020.05.16-15.22.13:320][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.05.16-15.22.13:320][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.22.13:320][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.22.13:320][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.22.13:321][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.22.13:321][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.22.13:321][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.22.13:321][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.22.13:321][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.22.13:321][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.22.13:321][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.22.13:323][ 59]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.22.13:340][ 59]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.22.13:342][ 59]LogInit: FAudioDevice initialized.
+[2020.05.16-15.22.13:389][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.22.13:391][ 59]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.22.13:394][ 59]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.22.13
+[2020.05.16-15.22.13:395][ 59]LogWorld: Bringing up level for play took: 0.002599
+[2020.05.16-15.22.13:395][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.05.16-15.22.13:406][ 59]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.05.16-15.22.13:410][ 59]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.22.13:410][ 59]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.22.13:410][ 59]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.22.13:413][ 59]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.22.13:413][ 59]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.22.13:546][ 59]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.545
+[2020.05.16-15.22.13:546][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.22.13:673][ 60]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.05.16-15.22.29:591][433]LogScript: Warning: Accessed None trying to read property ClickedCard
+	Hand_C /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.Hand_C_1
+	Function /Game/ExplodingKittens/Blueprints/Hand.Hand_C:PlaceCard:019D
+[2020.05.16-15.22.29:591][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ClickedCard". Blueprint:  Hand Function:  Place Card Graph:  PlaceCard Node:  On Placed
+[2020.05.16-15.22.45:459][806]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.22.45:483][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.22.45:483][806]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.22.45:483][806]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.22.45:484][806]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.22.45:486][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.22.45:519][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.22.45:520][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.22.45:528][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.22.45:576][806]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.22.45:614][806]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.05.16-15.22.45:772][807]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.16-15.22.50:945][ 74]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.22.50:952][ 74]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.23.16:697][686]BlueprintLog: New page: Compile Hand
+[2020.05.16-15.23.17:071][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.05.16-15.23.19:703][810]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.23.19:724][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.23.19:724][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.23.19:725][810]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:23:19 PM)
+[2020.05.16-15.23.19:725][810]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.23.19:749][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024241s)
+[2020.05.16-15.23.19:750][810]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.23.19:750][810]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2020.05.16-15.23.19:750][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.025605s)
+[2020.05.16-15.23.19:796][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.23.19:798][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.23.19:798][810]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.23.19:798][810]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.23.19:800][810]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.23.19:818][810]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.23.19:819][810]LogInit: FAudioDevice initialized.
+[2020.05.16-15.23.19:852][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.23.19:852][810]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.23.19:854][810]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.23.19
+[2020.05.16-15.23.19:855][810]LogWorld: Bringing up level for play took: 0.001891
+[2020.05.16-15.23.19:855][810]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.05.16-15.23.19:858][810]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.23.19:861][810]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.23.19:861][810]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.23.19:861][810]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.23.19:861][810]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.23.19:943][810]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.942
+[2020.05.16-15.23.19:943][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.23.24:639][921]PIE: Warning: AttachTo: '/Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.Deck2_1.Root' root component cannot be attached to other components in the same actor. Aborting.
+[2020.05.16-15.23.27:985][998]LogBlueprintUserMessages: [NopeUI_C_0] PuzzlePlayerPawn2
+[2020.05.16-15.23.27:986][998]LogBlueprintUserMessages: [NopeCard_C_4] noped
+[2020.05.16-15.23.27:986][998]LogBlueprintUserMessages: [NopeCard_C_4] 
+[2020.05.16-15.23.27:986][998]LogScript: Warning: Accessed None trying to read property Card
+	NopeCard_C /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.NopeCard_C_4
+	Function /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard_C:ExecuteUbergraph_NopeCard:0490
+[2020.05.16-15.23.27:986][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Card". Blueprint:  NopeCard Function:  Execute Ubergraph Nope Card Graph:  EventGraph Node:  Set TargetTransform
+[2020.05.16-15.23.27:986][998]LogScript: Warning: Attempted to assign to None
+	NopeCard_C /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.NopeCard_C_4
+	Function /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard_C:ExecuteUbergraph_NopeCard:04A5
+[2020.05.16-15.23.27:986][998]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  NopeCard Function:  Execute Ubergraph Nope Card Graph:  EventGraph Node:  Set TargetTransform
+[2020.05.16-15.23.27:986][998]LogScript: Warning: Accessed None trying to read property Card
+	NopeCard_C /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.NopeCard_C_4
+	Function /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard_C:ExecuteUbergraph_NopeCard:086D
+[2020.05.16-15.23.27:987][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Card". Blueprint:  NopeCard Function:  Execute Ubergraph Nope Card Graph:  EventGraph Node:  DestroyActor
+[2020.05.16-15.23.44:353][381]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.23.44:382][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.23.44:382][381]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.23.44:382][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.23.44:383][381]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.23.44:385][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.23.44:420][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.23.44:420][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.23.44:428][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.23.44:473][381]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.23.44:488][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.05.16-15.23.44:634][382]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.16-15.23.51:717][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard
+[2020.05.16-15.25.15:781][760]BlueprintLog: New page: Compile Hand
+[2020.05.16-15.25.16:169][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.05.16-15.25.23:298][161]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.25.23:303][161]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.25.23:862][194]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.25.23:889][194]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.25.23:890][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.25.23:890][194]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:25:23 PM)
+[2020.05.16-15.25.23:890][194]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.25.23:905][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014605s)
+[2020.05.16-15.25.23:907][194]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.25.23:907][194]LogPlayLevel: PIE: World Init took: (0.002444s)
+[2020.05.16-15.25.23:907][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.017256s)
+[2020.05.16-15.25.23:957][194]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.25.23:957][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.25.23:957][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.25.23:958][194]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.25.23:958][194]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.25.23:960][194]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.25.23:975][194]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.25.23:978][194]LogInit: FAudioDevice initialized.
+[2020.05.16-15.25.24:031][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.25.24:031][194]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.25.24:034][194]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.25.24
+[2020.05.16-15.25.24:034][194]LogWorld: Bringing up level for play took: 0.002208
+[2020.05.16-15.25.24:035][194]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.05.16-15.25.24:039][194]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.25.24:039][194]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.25.24:039][194]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.25.24:039][194]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.25.24:039][194]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.25.24:138][194]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 1.137
+[2020.05.16-15.25.24:138][194]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.25.31:595][340]PIE: Warning: AttachTo: '/Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.Deck2_1.Root' root component cannot be attached to other components in the same actor. Aborting.
+[2020.05.16-15.25.33:890][396]LogBlueprintUserMessages: [NopeUI_C_0] PuzzlePlayerPawn
+[2020.05.16-15.25.37:901][494]LogBlueprintUserMessages: [NopeUI_C_0] 
+[2020.05.16-15.25.38:853][508]LogBlueprintUserMessages: [NopeUI_C_0] 
+[2020.05.16-15.25.47:813][704]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.25.47:836][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.25.47:836][704]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.25.47:836][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.25.47:837][704]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.25.47:841][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.25.47:875][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.25.47:876][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.25.47:881][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.25.47:933][704]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.25.47:949][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.05.16-15.25.48:080][705]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.05.16-15.25.52:204][893]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.25.52:245][893]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.27.31:279][208]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard.SkipCard
+[2020.05.16-15.28.44:257][636]BlueprintLog: New page: Compile Hand
+[2020.05.16-15.28.44:653][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.05.16-15.31.21:812][179]BlueprintLog: New page: Compile SkipCard
+[2020.05.16-15.31.22:151][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.05.16-15.31.34:170][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.31.34:544][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.31.34:545][438]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.16-15.31.34:578][438]LogPlayLevel: [PlayLevel] Compiling NopeCard before play...
+[2020.05.16-15.31.39:770][438]LogUObjectHash: Compacting FUObjectHashTables data took  64.46ms
+[2020.05.16-15.31.39:784][438]LogPlayLevel: PlayLevel: Blueprint regeneration took 5240 ms (1 blueprints)
+[2020.05.16-15.31.39:785][438]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:31:39 PM)
+[2020.05.16-15.31.39:786][438]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.31.39:930][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143272s)
+[2020.05.16-15.31.39:941][438]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.31.39:943][438]LogPlayLevel: PIE: World Init took: (0.012259s)
+[2020.05.16-15.31.39:944][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.157029s)
+[2020.05.16-15.31.40:507][438]LogUObjectHash: Compacting FUObjectHashTables data took  47.71ms
+[2020.05.16-15.31.40:509][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.31.40:510][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.31.40:510][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.31.40:510][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.31.40:511][438]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.31.40:511][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.31.40:511][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.31.40:512][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.31.40:514][438]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.31.40:514][438]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.31.40:543][438]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.31.40:543][438]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.31.40:543][438]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.31.40:543][438]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.31.40:544][438]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.31.40:544][438]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.31.40:544][438]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.31.40:544][438]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.31.40:544][438]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.31.41:186][438]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.31.41:189][438]LogInit: FAudioDevice initialized.
+[2020.05.16-15.31.41:244][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.31.41:246][438]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.31.41:249][438]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 3) at 2020.05.16-17.31.41
+[2020.05.16-15.31.41:249][438]LogWorld: Bringing up level for play took: 0.002572
+[2020.05.16-15.31.41:250][438]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.05.16-15.31.41:253][438]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.31.41:253][438]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.31.41:256][438]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.31.41:256][438]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.31.41:256][438]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.31.41:397][438]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 6.396
+[2020.05.16-15.31.41:397][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.31.46:048][527]PIE: Warning: AttachTo: '/Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap:PersistentLevel.Deck2_1.Root' root component cannot be attached to other components in the same actor. Aborting.
+[2020.05.16-15.31.55:554][752]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.31.55:589][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.31.55:589][752]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.31.55:589][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.31.55:590][752]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.31.55:593][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.31.55:621][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.31.55:622][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.31.55:632][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.31.55:693][752]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.31.55:709][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.05.16-15.31.55:847][753]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.16-15.32.07:804][694]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.32.07:809][694]LogSlate: Window 'Message Log' being destroyed
+[2020.05.16-15.32.45:464][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/Deck.Deck
+[2020.05.16-15.33.32:499][253]BlueprintLog: New page: Compile SkipCard
+[2020.05.16-15.33.32:888][253]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.05.16-15.33.36:672][394]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.33.36:701][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.33.36:701][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.33.36:701][394]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:33:36 PM)
+[2020.05.16-15.33.36:701][394]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.33.36:714][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012730s)
+[2020.05.16-15.33.36:715][394]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.33.36:715][394]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2020.05.16-15.33.36:715][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.014034s)
+[2020.05.16-15.33.36:764][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.33.36:765][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.33.36:765][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.33.36:766][394]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.33.36:766][394]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.33.36:768][394]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.33.36:784][394]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.33.36:786][394]LogInit: FAudioDevice initialized.
+[2020.05.16-15.33.36:839][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.33.36:839][394]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.33.36:841][394]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.33.36
+[2020.05.16-15.33.36:842][394]LogWorld: Bringing up level for play took: 0.002008
+[2020.05.16-15.33.36:843][394]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.05.16-15.33.36:847][394]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.33.36:847][394]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.36:847][394]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.36:847][394]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.36:851][394]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.36:975][394]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap -0.026
+[2020.05.16-15.33.36:975][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.33.46:175][531]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.33.46:214][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.33.46:215][531]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.33.46:216][531]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.33.46:218][531]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.33.46:240][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.33.46:496][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.33.46:497][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.33.46:564][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.33.47:237][531]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.33.47:361][531]LogUObjectHash: Compacting FUObjectHashTables data took  45.45ms
+[2020.05.16-15.33.47:519][532]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.16-15.33.48:413][548]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.33.48:766][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.33.48:766][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.33.48:767][548]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:33:48 PM)
+[2020.05.16-15.33.48:768][548]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.33.48:886][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117568s)
+[2020.05.16-15.33.48:895][548]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.33.48:897][548]LogPlayLevel: PIE: World Init took: (0.010007s)
+[2020.05.16-15.33.48:898][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.129408s)
+[2020.05.16-15.33.49:279][548]LogUObjectHash: Compacting FUObjectHashTables data took  30.42ms
+[2020.05.16-15.33.49:281][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.33.49:282][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.33.49:282][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.33.49:282][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.33.49:282][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.33.49:283][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.33.49:283][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.33.49:283][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.33.49:286][548]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.33.49:286][548]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.33.49:305][548]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.33.49:305][548]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.33.49:305][548]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.33.49:306][548]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.33.49:306][548]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.33.49:306][548]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.33.49:306][548]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.33.49:306][548]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.33.49:307][548]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.33.49:511][548]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.33.49:522][548]LogInit: FAudioDevice initialized.
+[2020.05.16-15.33.49:635][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.33.49:637][548]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.33.49:672][548]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.33.49
+[2020.05.16-15.33.49:676][548]LogWorld: Bringing up level for play took: 0.032858
+[2020.05.16-15.33.49:677][548]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.05.16-15.33.49:697][548]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.33.49:698][548]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.49:721][548]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.49:722][548]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.49:722][548]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.33.50:735][548]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 1.734
+[2020.05.16-15.33.50:737][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.11:822][642]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.34.11:859][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.11:860][642]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.34.11:862][642]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.34.11:864][642]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.34.11:884][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.34.11:965][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.34.11:967][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.12:016][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.34.12:558][642]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.34.12:681][642]LogUObjectHash: Compacting FUObjectHashTables data took  45.39ms
+[2020.05.16-15.34.12:772][643]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.16-15.34.40:069][683]BlueprintLog: New page: Compile SkipCard
+[2020.05.16-15.34.40:381][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.05.16-15.34.43:476][837]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.34.43:506][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.43:506][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.34.43:506][837]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:34:43 PM)
+[2020.05.16-15.34.43:506][837]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.34.43:520][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013126s)
+[2020.05.16-15.34.43:520][837]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.34.43:521][837]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2020.05.16-15.34.43:521][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.014342s)
+[2020.05.16-15.34.43:570][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.34.43:572][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.34.43:572][837]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.34.43:572][837]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.34.43:574][837]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.34.43:589][837]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.34.43:591][837]LogInit: FAudioDevice initialized.
+[2020.05.16-15.34.43:637][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.34.43:637][837]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.34.43:640][837]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.34.43
+[2020.05.16-15.34.43:640][837]LogWorld: Bringing up level for play took: 0.002112
+[2020.05.16-15.34.43:641][837]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.05.16-15.34.43:645][837]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.34.43:649][837]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.43:649][837]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.43:649][837]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.43:649][837]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.43:744][837]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.743
+[2020.05.16-15.34.43:745][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.54:269][ 89]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.34.54:286][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.54:286][ 89]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.34.54:286][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.34.54:287][ 89]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.34.54:289][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.34.54:325][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.34.54:325][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.54:337][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.34.54:404][ 89]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.34.54:451][ 89]LogUObjectHash: Compacting FUObjectHashTables data took  34.37ms
+[2020.05.16-15.34.54:621][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.05.16-15.34.55:342][102]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.34.55:766][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.34.55:767][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.34.55:767][102]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:34:55 PM)
+[2020.05.16-15.34.55:768][102]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.34.55:880][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111146s)
+[2020.05.16-15.34.55:889][102]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.34.55:892][102]LogPlayLevel: PIE: World Init took: (0.011433s)
+[2020.05.16-15.34.55:893][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.124183s)
+[2020.05.16-15.34.56:001][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.34.56:002][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.34.56:002][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.34.56:003][102]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.34.56:003][102]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.34.56:005][102]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.34.56:005][102]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.34.56:006][102]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.34.56:024][102]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.34.56:026][102]LogInit: FAudioDevice initialized.
+[2020.05.16-15.34.56:086][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.34.56:086][102]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.34.56:088][102]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 0) at 2020.05.16-17.34.56
+[2020.05.16-15.34.56:089][102]LogWorld: Bringing up level for play took: 0.001781
+[2020.05.16-15.34.56:089][102]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.05.16-15.34.56:092][102]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.34.56:096][102]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.56:096][102]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.56:096][102]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.56:096][102]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.34.56:205][102]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 1.204
+[2020.05.16-15.34.56:205][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.35.09:771][394]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.35.09:781][394]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.35.09:781][394]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.35.09:781][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.35.09:782][394]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.35.09:785][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.35.09:799][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.35.09:799][394]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.35.09:812][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.35.09:877][394]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.35.09:894][394]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.05.16-15.35.09:914][395]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.16-15.35.38:901][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/Card.Card
+[2020.05.16-15.36.39:957][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.16-15.36.39:958][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ExplodingKittens/Maps/ExampleMap' took 0.060
+[2020.05.16-15.36.39:959][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ExplodingKittens/Blueprints/Hand] ([1] browsable assets)...
+[2020.05.16-15.36.39:959][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplodingKittens/Blueprints/Hand]
+[2020.05.16-15.36.40:117][ 66]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Hand_Auto1073BEFDD4ECDBD4EC153E4B991813190.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Autosaves/Game/ExplodingKittens/Blueprints/Hand_Auto1.uasset'
+[2020.05.16-15.36.40:150][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard] ([1] browsable assets)...
+[2020.05.16-15.36.40:205][ 66]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard]
+[2020.05.16-15.36.40:205][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard]
+[2020.05.16-15.36.40:274][ 66]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/NopeCard_Auto13935B2894B675CEAFF2958AC2971C322.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Autosaves/Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard_Auto1.uasset'
+[2020.05.16-15.36.40:276][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard] ([1] browsable assets)...
+[2020.05.16-15.36.40:312][ 66]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard.SkipCard]
+[2020.05.16-15.36.40:312][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard]
+[2020.05.16-15.36.40:358][ 66]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/SkipCard_Auto192E4920F40AC3B9871F44181828A1CBF.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Autosaves/Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard_Auto1.uasset'
+[2020.05.16-15.36.40:360][ 66]LogFileHelpers: Auto-saving content packages took 0.402
+[2020.05.16-15.37.04:082][111]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ExplodingKittens/Blueprints/NopeUI.NopeUI
+[2020.05.16-15.37.48:400][368]BlueprintLog: New page: Compile NopeUI
+[2020.05.16-15.37.48:529][368]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.05.16-15.37.48:540][368]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_Card_C_CHILDACTOR_25.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.16-15.37.48:558][368]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_Card_C_CHILDACTOR_27.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.16-15.38.34:945][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/CardGameGameState.CardGameGameState
+[2020.05.16-15.38.42:984][753]BlueprintLog: New page: Compile CardGameGameState
+[2020.05.16-15.38.44:317][753]LogUObjectHash: Compacting FUObjectHashTables data took  77.81ms
+[2020.05.16-15.38.44:424][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_Card_C_CHILDACTOR_29.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.16-15.38.44:994][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.DESTROYED_Card_C_CHILDACTOR_33.Root) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.05.16-15.44.15:932][665]BlueprintLog: New page: Compile NopeCard
+[2020.05.16-15.44.15:996][665]LogBlueprint: Error: [Compiler NopeCard] This blueprint (self) is not a BoardCardSlot_C, therefore ' Target ' must have a connection.
+[2020.05.16-15.44.15:996][665]LogBlueprint: Error: [Compiler NopeCard] This blueprint (self) is not a Deck_C, therefore ' Target ' must have a connection.
+[2020.05.16-15.44.16:010][665]LogBlueprint: Error: [Compiler NopeCard] Variable node  Set Card  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.05.16-15.44.16:530][665]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.05.16-15.44.39:080][822]BlueprintLog: New page: Compile NopeCard
+[2020.05.16-15.44.39:089][822]LogBlueprint: Error: [Compiler NopeCard] This blueprint (self) is not a Deck_C, therefore ' Target ' must have a connection.
+[2020.05.16-15.44.39:490][822]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.05.16-15.44.51:535][444]BlueprintLog: New page: Compile NopeCard
+[2020.05.16-15.44.51:951][444]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2020.05.16-15.45.30:366][234]BlueprintLog: New page: Compile NopeCard
+[2020.05.16-15.45.31:465][234]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.05.16-15.46.18:598][608]BlueprintLog: New page: Compile SkipCard
+[2020.05.16-15.46.19:003][608]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.05.16-15.46.21:928][732]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2020.05.16-15.46.22:026][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.05.16-15.46.22:428][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/ExampleMap72E36B58413CB34A6F9125BFB1EFAB54.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Maps/ExampleMap.umap'
+[2020.05.16-15.46.22:472][732]LogFileHelpers: Saving map 'ExampleMap' took 0.519
+[2020.05.16-15.46.22:524][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/CardGameGameState6F1ED3694A0B67A51003C095AA5CC787.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/CardGameGameState.uasset'
+[2020.05.16-15.46.22:701][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/Hand064C3F1A40DA8D1D31E515AE2C9B257E.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/Hand.uasset'
+[2020.05.16-15.46.22:774][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/NopeUIC447B49043C2D336EC30A587C59E86D1.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/NopeUI.uasset'
+[2020.05.16-15.46.22:896][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/NopeCard4FFCE07241B8FC2CEC2992A9975E4863.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/CardDatabase/NopeCard.uasset'
+[2020.05.16-15.46.23:017][732]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/SkipCardDB78EF864B05E56C70C60D87DEDC5189.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/CardDatabase/SkipCard.uasset'
+[2020.05.16-15.46.23:115][732]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating World /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating Blueprint /Game/ExplodingKittens/Blueprints/CardGameGameState.CardGameGameState
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating Blueprint /Game/ExplodingKittens/Blueprints/Hand.Hand
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating WidgetBlueprint /Game/ExplodingKittens/Blueprints/NopeUI.NopeUI
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/NopeCard.NopeCard
+[2020.05.16-15.46.23:115][732]LogContentValidation: Display: Validating Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/SkipCard.SkipCard
+[2020.05.16-15.46.25:211][771]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.46.25:365][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.25:366][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.46.25:366][771]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:46:25 PM)
+[2020.05.16-15.46.25:366][771]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.46.25:387][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020827s)
+[2020.05.16-15.46.25:389][771]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.46.25:389][771]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2020.05.16-15.46.25:389][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.023154s)
+[2020.05.16-15.46.25:467][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.46.25:470][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.46.25:470][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.46.25:471][771]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.46.25:471][771]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.46.25:473][771]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.46.25:491][771]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.25:493][771]LogInit: FAudioDevice initialized.
+[2020.05.16-15.46.25:554][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.46.25:554][771]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.46.25:557][771]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2020.05.16-17.46.25
+[2020.05.16-15.46.25:557][771]LogWorld: Bringing up level for play took: 0.002468
+[2020.05.16-15.46.25:558][771]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.05.16-15.46.25:562][771]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.46.25:563][771]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.25:563][771]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.25:563][771]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.25:563][771]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.25:665][771]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.665
+[2020.05.16-15.46.25:665][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.39:789][ 79]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.46.39:815][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.39:815][ 79]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.46.39:815][ 79]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.46.39:816][ 79]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.46.39:818][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.46.39:852][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.46.39:852][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.39:861][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.46.39:933][ 79]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.46.39:950][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.05.16-15.46.39:979][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.05.16-15.46.40:893][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.46.40:938][126]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.40:938][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.46.40:938][126]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:46:40 PM)
+[2020.05.16-15.46.40:938][126]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.46.40:952][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014201s)
+[2020.05.16-15.46.40:953][126]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.46.40:954][126]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2020.05.16-15.46.40:954][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.015383s)
+[2020.05.16-15.46.41:016][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.05.16-15.46.41:018][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.46.41:018][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.46.41:018][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.46.41:018][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.46.41:019][126]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.46.41:019][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.46.41:019][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.46.41:019][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.46.41:019][126]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.46.41:019][126]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.46.41:021][126]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.46.41:037][126]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.41:039][126]LogInit: FAudioDevice initialized.
+[2020.05.16-15.46.41:086][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.46.41:086][126]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.46.41:089][126]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2020.05.16-17.46.41
+[2020.05.16-15.46.41:089][126]LogWorld: Bringing up level for play took: 0.002061
+[2020.05.16-15.46.41:090][126]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.05.16-15.46.41:094][126]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.46.41:094][126]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.41:099][126]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.41:099][126]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.41:099][126]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.41:198][126]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.197
+[2020.05.16-15.46.41:198][126]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.54:558][384]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.46.54:582][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.54:582][384]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.46.54:582][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.46.54:583][384]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.46.54:585][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.46.54:619][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.46.54:620][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.54:632][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.46.54:704][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.46.54:718][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.05.16-15.46.54:746][385]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.05.16-15.46.55:501][424]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.16-15.46.55:550][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.46.55:550][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.16-15.46.55:550][424]PIE: New page: PIE session: ExampleMap (May 16, 2020, 7:46:55 PM)
+[2020.05.16-15.46.55:550][424]LogPlayLevel: Creating play world package: /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.46.55:566][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015481s)
+[2020.05.16-15.46.55:567][424]LogAIModule: Creating AISystem for world ExampleMap
+[2020.05.16-15.46.55:567][424]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2020.05.16-15.46.55:567][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ExplodingKittens/Maps/ExampleMap.ExampleMap to /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap (0.017272s)
+[2020.05.16-15.46.55:638][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.16-15.46.55:642][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.16-15.46.55:642][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.16-15.46.55:643][424]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.16-15.46.55:643][424]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Is Default: Yes
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: Channel Order:
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.16-15.46.55:645][424]LogAudioMixer: Display: 1: FrontRight
+[2020.05.16-15.46.55:661][424]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.16-15.46.55:663][424]LogInit: FAudioDevice initialized.
+[2020.05.16-15.46.55:719][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.16-15.46.55:719][424]LogLoad: Game class is 'CardGameGameMode_C'
+[2020.05.16-15.46.55:722][424]LogWorld: Bringing World /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap.ExampleMap up for play (max tick rate 60) at 2020.05.16-17.46.55
+[2020.05.16-15.46.55:723][424]LogWorld: Bringing up level for play took: 0.002753
+[2020.05.16-15.46.55:723][424]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.05.16-15.46.55:728][424]LogBlueprintUserMessages: [Deck3_5] 4
+[2020.05.16-15.46.55:728][424]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.55:728][424]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.55:732][424]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.55:732][424]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2020.05.16-15.46.55:834][424]PIE: Play in editor start time for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap 0.833
+[2020.05.16-15.46.55:835][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.47.26:138][ 26]LogSlate: Window 'CardGameDemoWithInterfaces Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.16-15.47.26:162][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.47.26:162][ 26]LogWorld: BeginTearingDown for /Game/ExplodingKittens/Maps/UEDPIE_0_ExampleMap
+[2020.05.16-15.47.26:162][ 26]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.47.26:162][ 26]LogWorld: UWorld::CleanupWorld for ExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.47.26:164][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.47.26:197][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.16-15.47.26:197][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap' with GeneratedClass '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap_C' with ClassGeneratedBy '/Game/ExplodingKittens/Maps/ExampleMap.ExampleMap:PersistentLevel.ExampleMap'
+[2020.05.16-15.47.26:207][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.47.26:283][ 26]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.16-15.47.26:297][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.05.16-15.47.26:323][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.05.16-15.47.31:260][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/ShuffleCard.ShuffleCard
+[2020.05.16-15.48.23:628][512]BlueprintLog: New page: Compile ShuffleCard
+[2020.05.16-15.48.24:050][512]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.05.16-15.49.20:878][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.05.16-15.49.21:149][466]LogSavePackage: Moving '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Saved/ShuffleCardE0D5A0A3448E6571B206A690D44D08B8.tmp' to '../../../../../../Users/sshth/Downloads/Compressed/CardGameDemoWithInterfaces_3/CardGameDemoWithInterfaces - Copy/Content/ExplodingKittens/Blueprints/CardDatabase/ShuffleCard.uasset'
+[2020.05.16-15.49.21:170][466]AssetCheck: New page: Asset Save: ShuffleCard
+[2020.05.16-15.49.21:171][466]LogContentValidation: Display: Validating Blueprint /Game/ExplodingKittens/Blueprints/CardDatabase/ShuffleCard.ShuffleCard
+[2020.05.16-15.49.22:669][531]LogSlate: Window 'ShuffleCard' being destroyed
+[2020.05.16-15.49.22:674][531]LogSlate: Window 'ShuffleCard' being destroyed
+[2020.05.16-15.49.22:705][531]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.22:705][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.22:778][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.22:779][531]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.22:779][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.22:995][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.22:995][531]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.22:995][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:078][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.23:078][531]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:078][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:175][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.23:176][531]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:176][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:284][531]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:285][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:295][531]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:295][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:399][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.23:400][531]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:400][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.23:490][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.16-15.49.23:490][531]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.16-15.49.23:490][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.16-15.49.30:764][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.05.16-15.49.32:648][676]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ExplodingKittens/Blueprints/NopeUI_2.NopeUI_2
+[2020.05.16-15.49.34:888][744]LogSlate: Took 0.079197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.16-15.51.47:971][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ExplodingKittens/Blueprints/CardGameHUD.CardGameHUD
+[2020.05.16-15.52.29:200][376]LogSlate: Took 0.018762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29FBFA71-42C2-9871-FDEF-40A9CEAC3EA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a5bb502641961ed68d248badc9d82b9f%7Cfeac9c51a0434e27bdd39cae03098666%7C6b35bfe9-f2a3-4023-a4f2-93367a3d2c41&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: request failed, libcurl error: 0 (No error)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e14e077f70 [can pipeline])
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 1 (Re-using existing connection! (#14) with host datarouter.ol.epicgames.com)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.60.94) port 443 (#14))
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 7 (Closing connection 14)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: 000001E1AECD2FC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.16-15.53.01:022][971]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29FBFA71-42C2-9871-FDEF-40A9CEAC3EA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a5bb502641961ed68d248badc9d82b9f%7Cfeac9c51a0434e27bdd39cae03098666%7C6b35bfe9-f2a3-4023-a4f2-93367a3d2c41&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.16-15.53.04:793][157]BlueprintLog: New page: Compile CardGameHUD
+[2020.05.16-15.53.05:248][157]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2020.05.16-15.55.04:752][785]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.16-15.55.14:841][103]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.16-15.55.14:845][103]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.16-15.56.13:358][897]BlueprintLog: New page: Compile NopeUI_2
+[2020.05.16-15.56.13:403][897]LogBlueprint: Error: [Compiler NopeUI_2] In use pin  Game State  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.16-15.56.13:405][897]LogClass: Warning: Type mismatch in GameState of NopeUI_2_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.05.16-15.56.13:424][897]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.16-15.56.16:601][897]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.177 s
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: 
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 46]
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: Stack: 
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35c3f867 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35b657a3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35a88594 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35a9a285 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35a93121 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35aea32e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35815fa8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa26ef0e24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa21b089c2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.05.16-15.56.16:602][897]LogOutputDevice: Error: [Callstack] 0x00007ffa0eded4d2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa21b43358 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa23771500 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa23724602 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa236d0f72 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa236d0d04 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa26f332f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa237c68fd UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa237e25c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa352e6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa353c2b22 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa353a2074 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35431498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35449281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa352a323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35329175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa3531413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa35308f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.16-15.56.16:603][897]LogOutputDevice: Error: [Callstack] 0x00007ffa5b634ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa5b62242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa5b637195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa5b61ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa89a074d6 USER32.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa89a06ff2 USER32.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa5b638699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ff7307f6db0 UE4Editor.exe!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ff73080c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ff73080c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ff73081ceae UE4Editor.exe!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ff73081fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa8a8c7974 KERNEL32.DLL!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: [Callstack] 0x00007ffa8bf6a271 ntdll.dll!UnknownFunction []
+[2020.05.16-15.56.16:604][897]LogOutputDevice: Error: 
+[2020.05.16-15.56.16:606][897]LogStats:                SubmitErrorReport -  0.000 s
